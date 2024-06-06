@@ -1,3 +1,6 @@
 sallad
 pizza
 tomato
+Movies
+cartoon 
+comestic
